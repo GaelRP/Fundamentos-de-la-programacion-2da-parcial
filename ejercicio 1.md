@@ -1,7 +1,7 @@
 ## Problemas resueltos en clase con diagramas de flujo
 ### ejercicio 1
 #### 1.1 analisis 
-usas una sumatioria y un contador, solo respetas el tipo de estructura repetitiva
+usas una sumatioria y un contador, solo respetas las reglas de el tipo de estructura repetitiva
 #### 1.2 Diagrama de flujo de datos
 https://postimg.cc/SJ8JwzfZ
 #### 1.3 prueba de escritorio
