@@ -11,6 +11,6 @@ https://postimg.cc/xJg0zhb7
 |            |              |         |
 
 #### 1.4 entradas
-
+ninguna
 #### 1.5 salidas
 A[10]
