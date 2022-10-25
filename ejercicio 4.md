@@ -1,9 +1,9 @@
 ## Problemas resueltos en clase con diagramas de flujo
 ### ejercicio 4
-Usar el símbolo de proceso para crear un array para los 10 elementos donde se almacenaran los números leidos del teclado, posteriormente verificar que cada número entre en el arreglo y almacenarlo hasta que se llenen los 10 elementos del array.
+Almacene los n números leidos del teclado en un vector de 10 elementos.
  #### 1.1 analisis 
-
-#### 1.2 Diagrama de flujo de datos
+En el simbolo de proceso crear un array [10] y almacenar los datos mediante una entrada de datos que digitara el usuario, luego verificar que complan las condiciones y almacenar los datos
+#### 1.2 Diagrama de flujo de datos 
 https://postimg.cc/5HNLvdHd
 
 #### 1.3 prueba de escritorio
