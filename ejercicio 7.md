@@ -1,6 +1,6 @@
 ## Problemas resueltos en clase con diagramas de flujo
 ### ejercicio
-
+Obtener el promedio de las calificaciones aprobatorias y la cantidad de alumnos reprobados. La calificación esta entre 0 y 10, y el máximo de alumnos es de 15.
  #### 1.1 analisis 
 
 #### 1.2 Diagrama de flujo de datos
