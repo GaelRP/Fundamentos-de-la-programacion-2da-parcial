@@ -1,8 +1,8 @@
 ## Problemas resueltos en clase con diagramas de flujo
 ### ejercicio
-En el símbolo de proceso asignar un array de 11 elementos y el contador, verificar que desde el principio el primero número sea 10 y que este haga una cuenta regresiva desde ese número hasta 0.
+Almacene un contador negativo en un vector, el conteo es de 10 a 0.
  #### 1.1 analisis 5
-
+simbolo de proceso asignar array [11] y un contador, usar proceso para restar al vector y hacer una cuenta regresiva.
 #### 1.2 Diagrama de flujo de datos
 https://postimg.cc/xJg0zhb7
 #### 1.3 prueba de escritorio
