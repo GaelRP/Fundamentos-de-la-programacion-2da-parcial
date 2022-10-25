@@ -9,7 +9,7 @@ https://postimg.cc/TyyjSJCK
 #### 1.3 prueba de escritorio
 |entrada|proceso|salida|
 |------------|-------------|----------|
-|            |     0+1*2,2+2*2,...        |    30     |
+|            |     0+1x2,2+2x2,...        |    30     |
 
 #### 1.4 entradas
 ninguna
