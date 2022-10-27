@@ -13,4 +13,11 @@ https://postimg.cc/SJ8JwzfZ
 #### 1.4 entradas
 ninguna
 #### 1.5 salidas}
- 55
+### codigo
+void main(List<String> args) {
+  int s = 0;
+  for (var i = 1; i <= 10; i++) {
+    s += i;
+  }
+  print("La suma de los valores es: $s");
+}
