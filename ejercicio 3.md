@@ -14,3 +14,5 @@ https://postimg.cc/rRxXV4jj
 
 #### 1.5 salidas
 30
+#### 1.6 codigo
+https://postimg.cc/8FcM9WDr
