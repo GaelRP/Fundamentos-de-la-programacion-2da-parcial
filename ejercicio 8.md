@@ -11,9 +11,9 @@ https://postimg.cc/WhDH0DxS
 #### 1.4 prueba de escritorio
 |entrada|proceso|salida|
 |------------|-------------|----------|
-|            |              |         |
+|      3, 50, 60      |  3<li, 50>li y <ls, 60>li y <ls            |   ls, li, "p_p es mayor"|
 
 #### 1.5 entradas
-
+li, ls,n, num, pp, pi.
 #### 1.6 salidas
-30
+limite inferior, limite superior, pp mayor a pi y pi mayor a pp
