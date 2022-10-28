@@ -9,9 +9,11 @@ https://postimg.cc/5HNLvdHd
 #### 1.3 prueba de escritorio
 |entrada|proceso|salida|
 |------------|-------------|----------|
-|            |              |         |
+|   1,2,3,4,5....        |    0<9, 1<9, 2<9, 3<9....        |    [1,2,3,4,5....]       |
 
 #### 1.4 entradas
-10 numeros que digite el usuario
+10 numeros que digite el usuario, n
 #### 1.5 salidas
-el vector, o sea a[10]
+A
+#### 1.6 codigo
+https://postimg.cc/v4q6rB98
