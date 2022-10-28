@@ -15,5 +15,5 @@ https://postimg.cc/TyyjSJCK
 ninguna
 #### 1.5 salidas
 30
-#### codigo
+#### codigo 1.6
 https://postimg.cc/QBdJDwgC
